@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643268391 source:d:\codeblocks\alprogpakipam\nyoba boy\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<string>
+	<iomanip>
+

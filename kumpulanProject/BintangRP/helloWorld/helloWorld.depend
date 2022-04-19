@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634949067 source:d:\codeblocks\latihan\helloworld\main.cpp
+	<iostream>
+
+1634949410 source:d:\codeblocks\kumpulanproject\bintangrp\helloworld\main.cpp
+	<iostream>
+

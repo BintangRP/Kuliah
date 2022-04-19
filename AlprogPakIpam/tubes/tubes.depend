@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1642730208 source:d:\codeblocks\alprogpakipam\tubes\main.cpp
+	<stdexcept>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+	<iostream>
+	<iomanip>
+	<string>
+	<iostream>
+	<string>
+
